@@ -1,0 +1,1 @@
+Projeto simples com algumas modelos e templates de criação de API's com Spring, usando algumas dependencias para facilitar a criação do projeto como: JPA Repository, Jakata Persistence, Banco H2, entre outras.
